@@ -1,4 +1,5 @@
-# Bus Web App (in progress)
+# Bus Web App (MVP VERSION HOSTED BELOW)
+https://mta-bus-app.herokuapp.com/
 
 TO SEE OUR MVP OF OUR updated PRODUCT:
 https://mta-bus-app.herokuapp.com/
